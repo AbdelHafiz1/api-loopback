@@ -1,0 +1,54 @@
+{
+  "name": "employe",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "nom": {
+      "type": "string",
+      "required": true
+    },
+    "prenom": {
+      "type": "string",
+      "required": true
+    },
+    "telephone": {
+      "type": "number",
+      "required": true
+    },
+    "mail": {
+      "type": "string"
+    },
+    "ville": {
+      "type": "string",
+      "required": true
+    },
+    "metier": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "disponible": {
+      "type": "boolean"
+    },
+    "user": {
+      "type": "string"
+    },
+    "image": {
+      "type": [
+        "string"
+      ]
+    },
+    "etoile": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,0 +1,26 @@
+{
+  "name": "pub",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "images": {
+      "type": [
+        "string"
+      ]
+    },
+    "nom": {
+      "type": "string"
+    }
+    ,
+    "statu": {
+      "type": "boolean"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

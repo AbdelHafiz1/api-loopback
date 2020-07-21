@@ -1,0 +1,22 @@
+{
+  "name": "categories",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "icon": {
+      "type": [
+        "string"
+      ]
+    },
+    "titre": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
