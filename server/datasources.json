@@ -3,24 +3,19 @@
     "name": "db",
     "connector": "memory"
   },
-  "MyDatasource": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
-    "database": "ShoppingDB",
-    "password": "",
-    "name": "MyDatasource",
-    "user": "",
+
+
+  
+ 
+  "heroku_svvjw415": {
+    "host": "ds235788.mlab.com",
+    "port": 35788,
+    "url": "mongodb://moucharaf:moucha123@ds235788.mlab.com:35788/heroku_svvjw415",
+    "database": "heroku_svvjw415",
+    "password": "moucha123",
+    "name": "heroku_svvjw415",
+    "user": "moucharaf",
     "useNewUrlParser": true,
     "connector": "mongodb"
-  },
-  "local-storage": {
-    "host": "localhost",
-    "port": 27017,
-    "database": "ShoppingDB",
-    "username": "",
-    "password": "",
-    "name": "local-storage",
-    "connector": "loopback-component-storage-gridfs"
   }
 }

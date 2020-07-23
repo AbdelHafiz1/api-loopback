@@ -1,21 +1,13 @@
 {
-  "name": "pub",
+  "name": "villes",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "images": {
-      "type": [
-        "string"
-      ]
-    },
-    "nom": {
+    "nomVille": {
       "type": "string"
-    },
-    "statu": {
-      "type": "boolean"
     }
   },
   "validations": [],
