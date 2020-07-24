@@ -5,27 +5,8 @@
   },
 
 
-  "MyDatasource": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
-    "database": "ShoppingDB",
-    "password": "",
-    "name": "MyDatasource",
-    "user": "",
-    "useNewUrlParser": true,
-    "connector": "mongodb"
-  },
-  "local-storage": {
-    "host": "localhost",
-    "port": 27017,
-    "database": "ShoppingDB",
-    "username": "",
-    "password": "",
-    "name": "local-storage",
-    "connector": "loopback-component-storage-gridfs"
-  },
- 
+
+  
   "heroku_svvjw415": {
     "host": "ds235788.mlab.com",
     "port": 35788,
