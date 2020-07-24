@@ -12,72 +12,67 @@
       "../common/mixins",
       "./mixins"
     ]
-
-    
-
   },
   "User": {
-    "dataSource": "heroku_svvjw415"
-
-    
+    "dataSource": "heroku_0t8nz477"
   },
   "AccessToken": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": false
   },
   "ACL": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": false,
     "options": {
       "strictObjectIDCoercion": true
     }
   },
   "Role": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": false
   },
   "Container": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "Article": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "Utilisateur": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "Message": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "Notification": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "employe": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "places": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "categories": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "pub": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   },
   "villes": {
-    "dataSource": "heroku_svvjw415",
+    "dataSource": "heroku_0t8nz477",
     "public": true
   }
 }
